@@ -54,7 +54,7 @@
     "prepublishOnly": "publish-please guard"
   },
   "dependencies": {
-    "@types/node": "^20.14.12",
+    "@types/node": "^22.0.0",
     "async-exit-hook": "^1.1.2",
     "babel-core": "^6.22.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
